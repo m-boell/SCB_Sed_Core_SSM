@@ -54,3 +54,6 @@ Post-processing script that reads the posterior draws, calculates posterior summ
 - **`fig_state_trajectories.png`**: Latent log-SDR trajectories per core with 50% and 90% credible-interval ribbons. Observed data points are overlaid, as are the censored below-detection-limit observations. Periods before and after each core's observed range are grayed out.
 - **`fig_typical_and_pairs.png`**: Posterior histogram of the typical cross-core correlation (`typical_r`), alongside a 4 × 4 pairwise correlation matrix showing posterior medians and 90% credible intervals for each core pair.
 - **`fig_scalar_forest.png`**: Per-core forest plot for the parameters μ, ρ, σ_proc, and τ_obs.
+
+## Note
+A repository with all of the photographed scales from SMB, as well as files containing their surface area measurements and SDR calculation, can be found [here](10.6084/m9.figshare.32988020).
